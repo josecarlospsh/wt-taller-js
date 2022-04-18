@@ -1,0 +1,26 @@
+{
+  "name": "taller-js",
+  "version": "1.0.0",
+  "description": "Taller de JavaScript - WT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel src/**/*.html",
+    "build": "parcel build src/**/*.html"
+  },
+  "keywords": [
+    "javascript",
+    "web",
+    "parcel"
+  ],
+  "author": "@josecarlospsh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "engines": {
+    "node": ">= 14.0.0"
+  }
+}
