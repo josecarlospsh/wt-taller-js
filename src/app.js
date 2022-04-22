@@ -1,1 +1,1 @@
-import "./sem-1/index.js"; // Semana 1
+import "./lib/a/b/c";

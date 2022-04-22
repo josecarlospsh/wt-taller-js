@@ -1,79 +1,44 @@
 {
    "marcas":[
       {
+         "IdMarca": 1,
          "Marca":"Apple",
-         "Modelo":"iPhone 11 64 GB",
-         "ModeloSuper":"iPhone 11",
-         "Imagen":"iphone-11-64-gb_78545674_Big_Imagen.png",
-         "Link":"/iphone-11",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"iPhone 11",
-         "RutaEspecial":"iphone-11",
+         "Modelo":["iPhone 6"],
+         "RutaEspecial":"",
          "EstadoEspecial":1
       },
       {
+         "IdMarca": 2,
          "Marca":"ZTE",
-         "Modelo":"Blade V30 Vita",
-         "ModeloSuper":"Blade V30 Vita",
-         "Imagen":"blade-v30-vita_78545645_Big_Imagen.png",
-         "Link":"/zte-blade-v30-vita",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"Blade V30 Vita",
-         "RutaEspecial":"zte-blade-v30-vita",
+         "Modelo": [""],
+         "RutaEspecial":"",
          "EstadoEspecial":1
       },
       {
+         "IdMarca": 3,
          "Marca":"Nokia",
-         "Modelo":"C20",
-         "ModeloSuper":"C20",
-         "Imagen":"c20_72085150_Big_Imagen.png",
-         "Link":"/nokia-c20",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"",
+         "Modelo": [""],
          "RutaEspecial":"",
          "EstadoEspecial":0
       },
       {
+         "IdMarca": 4,
          "Marca":"Realme",
-         "Modelo":"C21",
-         "ModeloSuper":"C21",
-         "Imagen":"c21_78545791_Big_Imagen.png",
-         "Link":"/realme-c21",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"",
+         "Modelo":["C21"],
          "RutaEspecial":"",
          "EstadoEspecial":0
       },
       {
+         "IdMarca": 5,
          "Marca":"Samsung",
-         "Modelo":"Galaxy A22 5G",
-         "ModeloSuper":"Galaxy A22 5G",
-         "Imagen":"galaxy-a22-5g_78545856_Big_Imagen.png",
-         "Link":"/samsung-galaxy-a22-5g",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"",
+         "Modelo":["Galaxy A22 5G"],
          "RutaEspecial":"",
          "EstadoEspecial":0
       },
       {
+         "IdMarca": 6,
          "Marca":"Xiaomi",
-         "Modelo":"Redmi 9A",
-         "ModeloSuper":"Redmi 9A",
-         "Imagen":"redmi-9a_78545845_Big_Imagen.png",
-         "Link":"/xiaomi-redmi-9a",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"",
-         "RutaEspecial":"",
-         "EstadoEspecial":0
-      },
-      {
-         "Marca":"Xiaomi",
-         "Modelo":"Redmi Note 11",
-         "ModeloSuper":"Redmi Note 11",
-         "Imagen":"redmi-note-11_78545876_Big_Imagen.png",
-         "Link":"/xiaomi-redmi-note-11",
-         "MarcaEspecial":"",
-         "ModeloEspecial":"",
+         "Modelo":["Redmi 9A"],
          "RutaEspecial":"",
          "EstadoEspecial":0
       }
@@ -209,11 +174,9 @@
          "PrecioEquipoOnLine":1889.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1889.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -361,11 +324,9 @@
          "PrecioEquipoOnLine":1309.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1309.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -498,11 +459,9 @@
          "PrecioEquipoOnLine":1309.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1309.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -635,11 +594,9 @@
          "PrecioEquipoOnLine":1889.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1889.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -772,11 +729,9 @@
          "PrecioEquipoOnLine":1719.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1719.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -909,11 +864,9 @@
          "PrecioEquipoOnLine":1719.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1719.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -1046,11 +999,9 @@
          "PrecioEquipoOnLine":1309.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1309.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       },
       {
@@ -1183,11 +1134,9 @@
          "PrecioEquipoOnLine":1309.00,
          "PrecioInicialOnline":0.00,
          "PrecioCuotasOnline":0.00,
-         "PrecioCuotasYCFMOnline":0.00,
          "PrecioOfertaEquipoOnLine":1309.00,
          "PrecioOfertaInicialOnline":0.00,
          "PrecioOfertaCuotasOnline":0.00,
-         "PrecioOfertaCuotasYCFMOnline":0.00,
          "CuotasOnline":0
       }
    ]
