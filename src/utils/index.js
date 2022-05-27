@@ -64,9 +64,9 @@ const openSortMenu = () => {
   }
 };
 
-const parseUrl = (url, base = "https://catalogo2020dev.serviciosmovistar.com/") => {
+const parseUrl = (slug, base = "https://catalogo2020dev.serviciosmovistar.com/") => {
   // console.log(`Url: ${url} - Base: ${base}`);
-  const urlParsed = new URL(url, base);
+  const urlParsed = new URL(slug, base);
   return urlParsed;
 };
 

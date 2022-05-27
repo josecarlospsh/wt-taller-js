@@ -41,6 +41,13 @@
          "Modelo":["Redmi 9A"],
          "RutaEspecial":"",
          "EstadoEspecial":0
+      },
+      {
+         "IdMarca": 7,
+         "Marca":"Motorola",
+         "Modelo":["E20", "E30","G51"],
+         "RutaEspecial":"",
+         "EstadoEspecial":0
       }
    ],
    "planes":[
